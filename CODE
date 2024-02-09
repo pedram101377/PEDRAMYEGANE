@@ -17,7 +17,8 @@ Program Id: 7UaPU3F1v3M3eAoj3nL3cRGyxuytGhWuzEorwjqK5SEP
 
 
 Let's say hello to a Solana account...
-(node:9318) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instea
+(node:9318) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative inst
+
 
 (Use `node --trace-deprecation ...` to show where the warning was created)
 Connection to cluster established: https://testnet.dev2.eclipsenetwork.xyz { 'feature-set': 3073089885, 'solana-core': '1.17.6' }
