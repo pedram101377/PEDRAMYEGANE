@@ -18,7 +18,7 @@ Program Id: 7UaPU3F1v3M3eAoj3nL3cRGyxuytGhWuzEorwjqK5S
 
 
 Let's say hello to a Solana account...
-(node:9318) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative ins
+(node:9318) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative ns
 
 
 (Use `node --trace-deprecation ...` to show where the warning was created)
