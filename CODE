@@ -13,7 +13,6 @@ node deposit.js 9sAkffgAZ9AMin4iBKMVVTpJCUspLXoKmokixiR5S5My 0x7C9e161ebe55000a3
 
 
 Let's say hello to a Solana account.
-
 (node:9318) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative 
 
 
