@@ -11,7 +11,7 @@ Let's say hello to a Solana account.
 (node:9318) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternativ
 
 
-Connection to cluster established: https://testnet.dev2.eclipsenetwork.xyz { 'feature-set': 3073089885, 'solana-core': '1.17.6' }
+Connection to cluster established: https://testnet.dev2.eclipsenetwork.xyz { 'feature-set': 3073089885, 'solana-core': '1.17.6' 
 Using account 9sAkffgAZ9AMin4iBKMVVTpJCUspLXoKmokixiR5S5My containing 9.995023308 SOL to pay for fee
 Using program 7UaPU3F1v3M3eAoj3nL3cRGyxuytGhWuzEorwjqK5SEP
 Creating account GuJiDzrjce8fVFdifNjsgCwCKqwJppqwLtRhsfvX8cEy to say hello t
