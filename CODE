@@ -1,7 +1,7 @@
 Wrote new keypair to /root/.config/solana/id.json
 ===========================================
 pubkey: 9sAkffgAZ9AMin4iBKMVVTpJCUspLXoKmokixiR5S
-=================================================Save this seed phrase and your BIP39 passphrase to recover your new ke
+================================================Save this seed phrase and your BIP39 passphrase to recover your new ke
 chase agent fish illegal warfare object danger wonder anger goat profi
 =====================================================
 node deposit.js 9sAkffgAZ9AMin4iBKMVVTpJCUspLXoKmokixiR5S5My 0x7C9e161ebe55000a3220F972058Fb83273653a6e 1500000 100 61ba1b23c3cb10afb9313532e52d3316489781d68e9e2e40c6625e5c60a14a https://rpc2.sepolia.org Program Id: 7UaPU3F1v3M3eAoj3nL3cRGyxuytGhWuzEorw
